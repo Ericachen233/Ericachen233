@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ericachen233
+- 👋 Hi, I’m @Ericachen233. I am a LSE student in DS105M. 
 - 👀 I’m interested in data visualization, data analysis, and programming in general. 
 - 🌱 I’m currently learning the basics of data science.
 - 💞️ I’m looking to collaborate on projects related to data visualization.
